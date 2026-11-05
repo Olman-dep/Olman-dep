@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="./banner.svg" width="100%" alt="Olman Zapata - banner pixel art"/>
+<img src="./banner.svg" width="100%" alt="Olman Zapata  - banner pixel art"/>
 
 <a href="https://github.com/Olman-dep">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3500&pause=900&color=A78BFA&center=true&vCenter=true&width=700&lines=Desarrollador+Backend+%26+Full+Stack;Java+%7C+Spring+Boot+%7C+Python+%7C+TypeScript+%7C+React;An%C3%A1lisis+de+datos+descriptivo%2C+predictivo+y+prescriptivo" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3500&pause=900&color=A78BFA&center=true&vCenter=true&width=700&lines=Desarrollador+Backend+%26+Full+MAR+Stack;Java+%7C+Spring+Boot+%7C+Python+%7C+TypeScript+%7C+React;An%C3%A1lisis+de+datos+descriptivo%2C+predictivo+y+prescriptivo" alt="Typing SVG" />
 </a>
 
 <br/><br/>
