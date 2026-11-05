@@ -20,23 +20,21 @@
 
 <br/>
 
-## 🛰️ Sobre mí
+## Sobre mí
 
 ```text
-> Misión actual     : Aprender y construir proyectos cada día
+
 > Ubicación         : Antioquia, Colombia 🇨🇴
-> Combustible       : Café ☕ + curiosidad
-> Destino           : Ser desarrollador full stack
 ```
 
-- 🔭 Trabajando en proyectos con **Java, C++ y Angular**
-- 🌱 Aprendiendo **TypeScript** y buenas prácticas de desarrollo
-- 💬 Pregúntame sobre programación, lógica y proyectos universitarios
-- 📫 Contáctame por [LinkedIn](https://www.linkedin.com/in/olman-alejandro-zapata-florez-863123353/)
+- Trabajando en proyectos con **Java, C++ y Angular**
+- Aprendiendo **TypeScript** y buenas prácticas de desarrollo
+- Pregúntame sobre programación, lógica y proyectos universitarios
+- Contáctame por [LinkedIn](https://www.linkedin.com/in/olman-alejandro-zapata-florez-863123353/)
 
 <br/>
 
-## 🧑‍🚀 Mi arsenal tecnológico
+##  Mis tecnologias
 
 <div align="center">
 
@@ -53,7 +51,7 @@
 
 <br/>
 
-## 🌌 Estadísticas galácticas
+##  Estadísticas 
 
 <div align="center">
 
@@ -68,7 +66,7 @@
 
 <br/>
 
-## 🪐 Proyectos destacados
+##  Proyectos destacados
 
 <div align="center">
 
