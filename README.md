@@ -126,10 +126,4 @@ Caso técnico de analista de datos para un BPO: procesar datos transaccionales c
 
 <br/>
 
-<div align="center">
-
-✨ *"El espacio es grande, pero el código nos permite explorarlo."* ✨
-
-</div>
-
 <img src="./footer.svg" width="100%" alt="footer pixel art"/>
