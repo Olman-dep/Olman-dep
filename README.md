@@ -19,21 +19,21 @@
 
 <br/>
 
-## 👋 Sobre mí
+##  Sobre mí
 
 Soy **Olman Zapata**, de **Medellín, Antioquia, Colombia** 🇨🇴. Desarrollador de Software **Backend & Full Stack** con experiencia en desarrollo de **APIs**, **aplicaciones web** y **automatización de procesos**. Trabajo con **Java, Spring Boot, Python, TypeScript y React**, y me enfoco en crear soluciones eficientes, mantenibles y orientadas a resultados.
 
 Además del desarrollo, tengo una base sólida en **análisis de datos**: manejo grandes volúmenes de información y trabajo con **análisis descriptivo, predictivo y prescriptivo**, para pasar de "qué pasó" a "qué va a pasar" y "qué deberíamos hacer".
 
-- 🔭 Construyo APIs REST, motores de predicción y pipelines de datos
-- 📊 Limpio, transformo y analizo datos con Python, SQL y Power BI
-- 🌱 Sigo profundizando en TypeScript, arquitectura de software y buenas prácticas
-- 💬 Pregúntame sobre programación, lógica, datos y proyectos
-- 📫 Contáctame por [LinkedIn](https://www.linkedin.com/in/olman-alejandro-zapata-florez-863123353/)
+-  Construyo APIs REST, motores de predicción y pipelines de datos
+-  Limpio, transformo y analizo datos con Python, SQL y Power BI
+-  Sigo profundizando en TypeScript, arquitectura de software y buenas prácticas
+-  Pregúntame sobre programación, lógica, datos y proyectos
+-  Contáctame por [LinkedIn](https://www.linkedin.com/in/olman-alejandro-zapata-florez-863123353/)
 
 <br/>
 
-## 🧠 Análisis de datos
+##  Análisis de datos
 
 | Enfoque | Qué hago |
 | --- | --- |
@@ -44,7 +44,7 @@ Además del desarrollo, tengo una base sólida en **análisis de datos**: manejo
 
 <br/>
 
-## 🛠️ Tecnologías
+##  Tecnologías
 
 <div align="center">
 
@@ -80,9 +80,9 @@ Además del desarrollo, tengo una base sólida en **análisis de datos**: manejo
 
 <br/>
 
-## 🚀 Proyectos destacados
+##  Proyectos destacados
 
-### ⚽ [ApiFootbalEDZAP](https://github.com/Olman-dep/ApiFootbalEDZAP): Backend de pronósticos deportivos
+###  [ApiFootbalEDZAP](https://github.com/Olman-dep/ApiFootbalEDZAP): Backend de pronósticos deportivos
 
 Backend en **NestJS (TypeScript) + MongoDB** para una plataforma de analítica deportiva. Expone una API REST que genera pronósticos probabilísticos (goles, córners, tiros, props de jugadores) con un motor **Poisson + Monte Carlo** y los compara contra cuotas de mercado para calcular el **Expected Value (EV)**.
 
@@ -92,7 +92,7 @@ Backend en **NestJS (TypeScript) + MongoDB** para una plataforma de analítica d
 
 `NestJS` `TypeScript` `MongoDB` `Poisson` `Monte Carlo` `JWT` `Swagger`
 
-### 📊 [prueba-técnica-LikeU](https://github.com/Olman-dep/prueba-t-cnica-LikeU): Análisis de datos de una campaña de WhatsApp
+###  [prueba-técnica-LikeU](https://github.com/Olman-dep/prueba-t-cnica-LikeU): Análisis de datos de una campaña de WhatsApp
 
 Caso técnico de analista de datos para un BPO: procesar datos transaccionales crudos de una campaña de WhatsApp para encontrar por qué fallaban las entregas y por qué los asesores estaban saturados.
 
@@ -103,7 +103,7 @@ Caso técnico de analista de datos para un BPO: procesar datos transaccionales c
 
 `Python` `pandas` `SQL` `MySQL` `Power BI` `Jupyter`
 
-### 🧩 Otros
+###  Otros
 
 <div align="center">
 
@@ -115,7 +115,7 @@ Caso técnico de analista de datos para un BPO: procesar datos transaccionales c
 
 <br/>
 
-## 📈 Estadísticas
+##  Estadísticas
 
 <div align="center">
 
