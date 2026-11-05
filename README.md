@@ -132,4 +132,4 @@ Caso técnico de analista de datos para un BPO: procesar datos transaccionales c
 
 </div>
 
-<img src="assets/footer.svg" width="100%" alt="footer pixel art"/>
+<img src="./footer.svg" width="100%" alt="footer pixel art"/>
