@@ -21,7 +21,7 @@
 
 ##  Sobre mí
 
-Soy **Olman Zapata**, de **Medellín, Antioquia, Colombia** novio de mar 🇨🇴. Desarrollador de Software **Backend & Full Stack** con experiencia en desarrollo de **APIs**, **aplicaciones web** y **automatización de procesos**. Trabajo con **Java, Spring Boot, Python, TypeScript y React**, y me enfoco en crear soluciones eficientes, mantenibles y orientadas a resultados.
+Soy **Olman Zapata**, de **Medellín, Antioquia, Colombia**  🇨🇴. Desarrollador de Software **Backend & Full Stack** con experiencia en desarrollo de **APIs**, **aplicaciones web** y **automatización de procesos**. Trabajo con **Java, Spring Boot, Python, TypeScript y React**, y me enfoco en crear soluciones eficientes, mantenibles y orientadas a resultados.
 
 Además del desarrollo, tengo una base sólida en **análisis de datos**: manejo grandes volúmenes de información y trabajo con **análisis descriptivo, predictivo y prescriptivo**, para pasar de "qué pasó" a "qué va a pasar" y "qué deberíamos hacer".
 
